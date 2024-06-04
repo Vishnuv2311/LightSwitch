@@ -7,6 +7,10 @@ Inspired by [the original Flutter implementation](https://github.com/o-ifeanyi/l
 ### This is how it looks 📸
 
 
+https://github.com/Vishnuv2311/LightSwitch/assets/30927360/6b4a1160-9214-44d5-9345-28673af33d10
+
+
+
 ## 🎁 Features
 
 - Light switch UI component with smooth animation.
